@@ -1,3 +1,0 @@
-"properties":\{"grunnkrets_id":"(\d{8})","grunnkretsnavn":"(.[^"]+)","kommune_id":"0301","kommunenavn":"Oslo"\}
-
-"properties":{"grunnkrets_id":"$1","grunnkretsnavn":"$2"},"id":"$1"}
